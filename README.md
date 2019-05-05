@@ -12,6 +12,9 @@
 
 https://github.com/awesomedata/awesome-public-datasets  
 
+# Data Cleaning Tool  
+http://openrefine.org/  
+
 # Ref  
 https://www.analyticsvidhya.com/blog/2018/11/data-engineer-comprehensive-list-resources-get-started/  
 https://towardsdatascience.com/data-science-for-startups-data-pipelines-786f6746a59a  
