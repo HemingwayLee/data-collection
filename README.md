@@ -8,3 +8,8 @@
 6. continuously eavluate existing tools and process
 7. work with temporary employee (training and task management)
 
+# Public datasets  
+
+https://github.com/awesomedata/awesome-public-datasets  
+
+
