@@ -1,11 +1,15 @@
 # data-collection teams
 1. plan, collect, manage, valid, report (visualization)
-2. data structure, konwledge about business
-3. data analytics, statistical analysis
-4. survey design
-5. SQL, tablau, excel, google doc
-6. continuously eavluate existing tools and process
-7. work with temporary employee (training and task management)
+  * Fake data generation is important
+3. data structure, konwledge about business
+4. data analytics, statistical analysis
+5. survey design
+6. SQL, tablau, excel, google doc
+7. continuously eavluate existing tools and process
+  * How to evaluate their labelling
+    * Check it randomly
+    * Tool to evaluate
+9. work with temporary employee (training and task management)
 
 ## Data pipeline related services
 * data migration or ETL (e.g., AirFlow)
