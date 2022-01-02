@@ -1,23 +1,28 @@
 # data-collection teams
-1. plan, collect, manage, valid, report (visualization)
+* plan, collect, manage, valid, report (visualization)
   * Fake data generation is important
-3. data structure, konwledge about business
-4. data analytics, statistical analysis
-5. survey design
-6. SQL, tablau, excel, google doc
-7. continuously eavluate existing tools and process
+* data structure, konwledge about business
+* data analytics, statistical analysis
+* survey design
+* SQL, tablau, excel, and google doc
+* continuously eavluate existing tools and process
   * How to evaluate their labelling
     * Check it randomly
     * Tool to evaluate
-9. work with temporary employee (training and task management)
+* work with temporary employee (training and task management)
 
 ## Data pipeline related services
-* data migration or ETL (e.g., AirFlow)
+* data migration or ETL 
 * data cleaning (e.g., OpenRefine)
 * data labelling
+  * It should be highly customized
+  * It contains domain knowledge
+  * It needs AI engineers/data scientists to clearify some of the labelling
 * data versioning and diff (e.g., Data Version Control (DEV))
   * hard to do because the size is too big
 * data visualization (e.g., Kaggle csv viewer)
+  * It should be customized
+* It requires security, infrastructure, and data storage knowledge
 
 # Software Engineering  
 https://arxiv.org/pdf/1810.12034.pdf  
