@@ -10,6 +10,10 @@
     * Check it randomly
     * Tool to evaluate
 * work with temporary employee (training and task management)
+  * Knows the contracts (e.g., NDA), agency, and law
+  * Need to provide clear job/project description and deadline
+  * Interns are leaglly to learn
+    * They need a mentor
 
 ## Data pipeline related services
 * data migration or ETL 
@@ -24,6 +28,19 @@
   * It should be customized
 * It requires security, infrastructure, and data storage knowledge
 
+# What to show on report
+* Basic info
+  * size, datetime
+* How it perform
+  * test on unseen data
+  * accuracy (or F1, recall, ...), confusion matrix
+    * details on subset of data
+  * running performance
+* What it is built
+  * make it reproducable
+  * add validation dataset
+  * numbers over epoch
+
 # Software Engineering  
 https://arxiv.org/pdf/1810.12034.pdf  
 https://www.microsoft.com/en-us/research/uploads/prod/2019/03/amershi-icse-2019_Software_Engineering_for_Machine_Learning.pdf  
@@ -31,7 +48,6 @@ https://www.microsoft.com/en-us/research/uploads/prod/2019/03/amershi-icse-2019_
 # MLOps
 
 # Public datasets  
-
 https://github.com/awesomedata/awesome-public-datasets  
 
 # Data Cleaning Tool  
