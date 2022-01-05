@@ -1,6 +1,7 @@
 # data-collection teams
 * plan, collect, manage, valid, report (visualization)
   * Fake data generation is important
+    * PS works
 * data structure, konwledge about business
 * data analytics, statistical analysis
 * survey design
