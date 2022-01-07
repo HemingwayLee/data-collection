@@ -2,8 +2,8 @@
 * plan, collect, manage, valid, report (visualization)
   * Fake data generation is important
     * PS works
-* data structure, konwledge about business
-* data analytics, statistical analysis
+* data structure and konwledge about business
+* data analytics and statistical analysis
 * survey design
 * SQL, tablau, excel, and google doc
 * continuously eavluate existing tools and process
