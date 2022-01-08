@@ -10,6 +10,8 @@
   * How to evaluate their labelling
     * Check it randomly
     * Tool to evaluate
+    * Find a leader among them
+    * Weekly meeting
 * work with temporary employee (training and task management)
   * Knows the contracts (e.g., NDA), agency, and law
   * Need to provide clear job/project description and deadline
