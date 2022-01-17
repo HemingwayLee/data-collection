@@ -20,7 +20,9 @@
 
 ## Data pipeline related services
 * data migration or ETL 
-* data cleaning (e.g., OpenRefine)
+* data cleaning
+  * [SmartOCR](https://www.smartocr.jp/)
+  * [OpenRefine](https://openrefine.org/)
 * data labelling
   * It should be highly customized
   * It contains domain knowledge
@@ -52,9 +54,6 @@ https://www.microsoft.com/en-us/research/uploads/prod/2019/03/amershi-icse-2019_
 
 # Public datasets  
 https://github.com/awesomedata/awesome-public-datasets  
-
-# Data Cleaning Tool  
-http://openrefine.org/  
 
 # Ref  
 https://www.analyticsvidhya.com/blog/2018/11/data-engineer-comprehensive-list-resources-get-started/  
