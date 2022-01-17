@@ -1,7 +1,7 @@
 # data-collection teams
 * plan, collect, manage, valid, report (visualization)
   * Fake data generation is important
-    * PS works
+    * PS works, opencv, GAN, and scripts
 * data structure and konwledge about business
 * data analytics and statistical analysis
 * survey design
@@ -22,14 +22,14 @@
 * data migration or ETL 
 * data cleaning
   * [SmartOCR](https://www.smartocr.jp/)
-  * [OpenRefine](https://openrefine.org/)
+  * [OpenRefine](https://openrefine.org/) (looks like can be replaced by excel)
 * data labelling
   * It should be highly customized
   * It contains domain knowledge
   * It needs AI engineers/data scientists to clearify some of the labelling
 * data versioning and diff (e.g., Data Version Control (DEV))
   * hard to do because the size is too big
-* data visualization (e.g., Kaggle csv viewer)
+* data visualization (e.g., [Kaggle csv viewer](https://github.com/study-ml/chart-table))
   * It should be customized
 * It requires security, infrastructure, and data storage knowledge
 
