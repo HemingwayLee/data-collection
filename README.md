@@ -53,8 +53,6 @@
 https://arxiv.org/pdf/1810.12034.pdf  
 https://www.microsoft.com/en-us/research/uploads/prod/2019/03/amershi-icse-2019_Software_Engineering_for_Machine_Learning.pdf  
 
-# MLOps
-
 # Public datasets  
 https://github.com/awesomedata/awesome-public-datasets  
 
