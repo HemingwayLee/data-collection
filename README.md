@@ -27,6 +27,7 @@
   * Existing tools
     * [boxEditor](https://github.com/HemingwayLee/ocr-bbox-editor)
     * [SmartOCR](https://www.smartocr.jp/)
+    * [Label-tool](https://github.com/Slava/label-tool)
   * It should be highly customized
   * It contains domain knowledge
   * It needs AI engineers/data scientists to clearify some of the labelling
